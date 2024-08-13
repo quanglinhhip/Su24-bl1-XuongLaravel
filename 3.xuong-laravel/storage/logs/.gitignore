@@ -1,0 +1,7 @@
+*
+!.gitignore
+!logs
+!framework
+!framework/sessions
+!framework/views
+!framework/cache
