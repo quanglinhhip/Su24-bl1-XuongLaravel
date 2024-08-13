@@ -6,7 +6,7 @@ use App\Models\Brand;
 use App\Http\Requests\StoreBrandRequest;
 use App\Http\Requests\UpdateBrandRequest;
 use Illuminate\Support\Facades\Storage;
-
+// hihi
 class BrandController extends Controller
 {
     /**
